@@ -12,3 +12,4 @@ def fizzbuzz(x)
     "FizzBuzz"
   end 
 end
+
